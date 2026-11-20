@@ -17,14 +17,10 @@
 
 ---
 
-## Demo
+## 🎬 Demo
 
-<!-- Drag your end-to-end screen recording (.mp4) into the GitHub editor, then paste the generated URL on its own line below. GitHub renders it as an inline player. -->
+https://github.com/user-attachments/assets/0e9eb970-df64-4264-beb1-2bdfae80b094
 
-> 🎬 **Demo video:** <video width="100%" controls preload="metadata">
-  <source src="docs/walkthrough/demo.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
 
 ## Features
 
